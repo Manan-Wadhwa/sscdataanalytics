@@ -1,0 +1,29 @@
+Average score for 'Studying': 21.84
+Average score for 'healthy eating': 35.37
+Average score for 'technology': 35.46
+Average score for 'cooking': 33.28
+Average score for 'dogs': 33.30
+Average score for 'soccer': 35.02
+Average score for 'public speaking': 35.00
+Average score for 'science': 34.84
+Average score for 'tennis': 32.53
+Average score for 'food': 33.98
+Average score for 'fitness': 34.13
+Average score for 'education': 35.24
+Average score for 'studying': 34.89
+Average score for 'travel': 34.10
+Average score for 'veganism': 33.48
+Average score for 'Animals': 35.59
+Average score for 'animals': 34.40
+Average score for 'culture': 34.24
+Average score for 'Fitness': 33.28
+Average score for 'Veganism': 61.89
+Average score for 'Travel': 35.36
+Average score for 'Education': 32.77
+Average score for 'Technology': 73.50
+Average score for 'Soccer': 36.00
+Average score for 'Culture': 36.08
+Average score for 'Food': 34.10
+Average score for 'Healthy Eating': 50.40
+Average score for 'Science': 34.25
+Average score for 'Public Speaking': 38.36
